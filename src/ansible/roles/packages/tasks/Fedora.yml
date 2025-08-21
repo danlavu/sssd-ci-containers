@@ -96,6 +96,7 @@
       - gdb
       - gdb-gdbserver
       - iputils
+      - jc
       - ldb-tools
       - man
       - net-tools

@@ -16,6 +16,7 @@
       - gdbserver
       - git
       - iproute2
+      - jc
       - iputils-*
       - ldap-utils
       - ldb-tools
